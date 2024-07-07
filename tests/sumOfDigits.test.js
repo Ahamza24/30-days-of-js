@@ -1,4 +1,4 @@
-const { sumOfDigits } = require("../Challenges/12-sum-of-digits");
+const sumOfDigits = require("../Challenges/12-sum-of-digits");
 
 describe('sumOfDigits', () => {
     test('Example 1: n = 123', () => {

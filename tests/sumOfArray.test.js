@@ -1,4 +1,4 @@
-const { sumOfArray } = require("../Challenges/07-sum-of-arrays");
+const sumOfArray = require("../Challenges/07-sum-of-arrays");
 
 describe('sumOfArray', () => {
     test('Example 1: arr = [1, 2, 3, 4]', () => {

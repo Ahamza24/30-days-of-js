@@ -1,4 +1,4 @@
-const { countOccurrences } = require("../Challenges/09-count-occurrences");
+const countOccurrences = require("../Challenges/09-count-occurrences");
 
 describe('countOccurrences', () => {
     test('Example 1: arr = [1, 2, 2, 3, 4], x = 2', () => {
